@@ -5,3 +5,4 @@ JS，里定义一个变量使用let或者const,const PI=3.1415926;
 let a=5;  let a; a=5;    
 let a=5;    a=7;    
 const a=5    a=8;
+20191121
